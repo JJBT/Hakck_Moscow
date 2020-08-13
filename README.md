@@ -12,7 +12,7 @@ Semantical and emotional analisys of speech.
 - SpeechRecognition
 - SpeechPy
 - tqdm
-- ffmpg. And you have to add path to 'ffmpg\bin' to PATH enviroment variable.
+- ffmpg. And you have to add path to 'ffmpg\bin' to PATH environment variable.
 
 *You need to change PATHS in Constants.py* 
 
